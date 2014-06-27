@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = BoxcarNotifier::VERSION
   spec.authors       = ["Nobuyuki Sakai"]
   spec.email         = ["gonhainu.sphere@gmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = %q{this is a new boxcar api notify}
+  spec.description   = %q{https://boxcar.io/}
   spec.homepage      = ""
   spec.license       = "MIT"
 
